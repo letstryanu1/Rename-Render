@@ -13,7 +13,7 @@ API_HASH = os.environ.get("API_HASH", "940b54a3fafc866178cf9de98393e48c")
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "6637359940:AAEWiOBygP2JEkgxR4TfIZZOzV-Qhci0bJs") 
 
-FORCE_SUB = os.environ.get("FORCE_SUB", "VJ_Botz") 
+FORCE_SUB = os.environ.get("FORCE_SUB", "Netflix_Xseriesbot") 
 
              # Don't Remove Credit @VJ_Botz
              # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
